@@ -1,5 +1,5 @@
 # 一键测速脚本使用方法：
-```bash <(curl -Lso- bash <(curl -Lso- https://raw.githubusercontent.com/ZeroX1ng/Linux-SpeedTest/master/superbench.sh))```
+```bash <(curl -Lso- https://raw.githubusercontent.com/ZeroX1ng/Linux-SpeedTest/master/superbench.sh)```
 
 <br>2020/4/10  基于修复版进行汉化，解决测速虚高的问题
 <br>           修复版作者博客：https://msoayu56.com/310/
